@@ -1,5 +1,8 @@
-let tamanho1 = 170;
-let tamanho2 = 210;
+let tamanho;
+let cabeceira;
+
+let tamanho1;
+let tamanho2;
 
 // const readline = require('readline').createInterface({
 //     input: process.stdin,
